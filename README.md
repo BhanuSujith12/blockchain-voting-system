@@ -1,5 +1,5 @@
 # Blockchain Voting System
-
+ 
 A decentralized, tamper-evident electronic voting system implemented in Python using core blockchain principles. This application features block hashing, proof-of-work consensus, registration constraints, dual-voting prevention, and automated fraud detection.
 
 ## 🚀 Features Implemented
